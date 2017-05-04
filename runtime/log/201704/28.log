@@ -1,0 +1,861 @@
+[ 2017-04-28T15:32:00+08:00 ] ::1 ::1 GET /blog/public/admin/Entry/index
+[ log ] localhost:8888/blog/public/admin/Entry/index [运行时间：0.033803s][吞吐率：29.58req/s] [内存消耗：1,755.27kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Entry',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Entry->index[ /Applications/MAMP/htdocs/blog/application/admin/controller/Entry.php ]
+[ info ] [ VIEW ] /Applications/MAMP/htdocs/blog/public/../application/admin/view/entry/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T15:32:03+08:00 ] ::1 ::1 GET /blog/public/admin/Entry/index
+[ log ] localhost:8888/blog/public/admin/Entry/index [运行时间：0.032544s][吞吐率：30.73req/s] [内存消耗：1,600.56kb] [文件加载：45]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Entry',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Entry->index[ /Applications/MAMP/htdocs/blog/application/admin/controller/Entry.php ]
+[ info ] [ VIEW ] /Applications/MAMP/htdocs/blog/public/../application/admin/view/entry/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T15:32:24+08:00 ] ::1 ::1 GET /blog/public/admin/Entry/index
+[ log ] localhost:8888/blog/public/admin/Entry/index [运行时间：0.032753s][吞吐率：30.53req/s] [内存消耗：1,600.59kb] [文件加载：45]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Entry',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Entry->index[ /Applications/MAMP/htdocs/blog/application/admin/controller/Entry.php ]
+[ info ] [ VIEW ] /Applications/MAMP/htdocs/blog/public/../application/admin/view/entry/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T15:32:24+08:00 ] ::1 ::1 GET /blog/public/admin/Entry/resource/hdjs/app/util.js
+[ log ] localhost:8888/blog/public/admin/Entry/resource/hdjs/app/util.js [运行时间：0.107213s][吞吐率：9.33req/s] [内存消耗：1,626.10kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Entry',
+    2 => 'resource',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost:8888/blog/public/admin/Entry/index',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+  'hdjs' => 'app',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T15:32:24+08:00 ] ::1 ::1 GET /blog/public/admin/Entry/js/jquery.min.js
+[ log ] localhost:8888/blog/public/admin/Entry/js/jquery.min.js [运行时间：0.138626s][吞吐率：7.21req/s] [内存消耗：1,625.36kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Entry',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost:8888/blog/public/admin/Entry/index',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T15:32:24+08:00 ] ::1 ::1 GET /blog/public/admin/Entry/bootstrap-3.3.0-dist/dist/js/bootstrap.min.js
+[ log ] localhost:8888/blog/public/admin/Entry/bootstrap-3.3.0-dist/dist/js/bootstrap.min.js [运行时间：0.112454s][吞吐率：8.89req/s] [内存消耗：1,626.20kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Entry',
+    2 => 'bootstrap-3.3.0-dist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost:8888/blog/public/admin/Entry/index',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+  'dist' => 'js',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T15:32:24+08:00 ] ::1 ::1 GET /blog/public/admin/Entry/font-awesome-4.7.0/css/font-awesome.min.css
+[ log ] localhost:8888/blog/public/admin/Entry/font-awesome-4.7.0/css/font-awesome.min.css [运行时间：0.162321s][吞吐率：6.16req/s] [内存消耗：1,626.23kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Entry',
+    2 => 'font-awesome-4.7.0',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://localhost:8888/blog/public/admin/Entry/index',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+  'css' => 'font-awesome.min.css',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T15:32:24+08:00 ] ::1 ::1 GET /blog/public/admin/Entry/css/site.css
+[ log ] localhost:8888/blog/public/admin/Entry/css/site.css [运行时间：0.167888s][吞吐率：5.96req/s] [内存消耗：1,625.38kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Entry',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://localhost:8888/blog/public/admin/Entry/index',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T15:32:24+08:00 ] ::1 ::1 GET /blog/public/admin/Entry/bootstrap-3.3.0-dist/dist/css/bootstrap.min.css
+[ log ] localhost:8888/blog/public/admin/Entry/bootstrap-3.3.0-dist/dist/css/bootstrap.min.css [运行时间：0.198111s][吞吐率：5.05req/s] [内存消耗：1,626.21kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Entry',
+    2 => 'bootstrap-3.3.0-dist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://localhost:8888/blog/public/admin/Entry/index',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+  'dist' => 'css',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T15:32:24+08:00 ] ::1 ::1 GET /blog/public/admin/Entry/resource/hdjs/app/config.js
+[ log ] localhost:8888/blog/public/admin/Entry/resource/hdjs/app/config.js [运行时间：0.074297s][吞吐率：13.46req/s] [内存消耗：1,626.10kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Entry',
+    2 => 'resource',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost:8888/blog/public/admin/Entry/index',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+  'hdjs' => 'app',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T15:32:24+08:00 ] ::1 ::1 GET /blog/public/admin/Entry/resource/hdjs/require.js
+[ log ] localhost:8888/blog/public/admin/Entry/resource/hdjs/require.js [运行时间：0.105209s][吞吐率：9.50req/s] [内存消耗：1,626.13kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Entry',
+    2 => 'resource',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost:8888/blog/public/admin/Entry/index',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+  'hdjs' => 'require.js',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T15:32:24+08:00 ] ::1 ::1 GET /blog/public/admin/Entry/bootstrap-3.3.0-dist/dist/js/bootstrap.min.js
+[ log ] localhost:8888/blog/public/admin/Entry/bootstrap-3.3.0-dist/dist/js/bootstrap.min.js [运行时间：0.054951s][吞吐率：18.20req/s] [内存消耗：1,626.20kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Entry',
+    2 => 'bootstrap-3.3.0-dist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost:8888/blog/public/admin/Entry/index',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+  'dist' => 'js',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T15:32:24+08:00 ] ::1 ::1 GET /blog/public/admin/Entry/resource/hdjs/app/util.js
+[ log ] localhost:8888/blog/public/admin/Entry/resource/hdjs/app/util.js [运行时间：0.039630s][吞吐率：25.23req/s] [内存消耗：1,626.10kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Entry',
+    2 => 'resource',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost:8888/blog/public/admin/Entry/index',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+  'hdjs' => 'app',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T15:32:24+08:00 ] ::1 ::1 GET /blog/public/admin/Entry/resource/hdjs/require.js
+[ log ] localhost:8888/blog/public/admin/Entry/resource/hdjs/require.js [运行时间：0.041488s][吞吐率：24.10req/s] [内存消耗：1,626.13kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Entry',
+    2 => 'resource',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost:8888/blog/public/admin/Entry/index',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+  'hdjs' => 'require.js',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T15:32:24+08:00 ] ::1 ::1 GET /blog/public/admin/Entry/resource/hdjs/app/config.js
+[ log ] localhost:8888/blog/public/admin/Entry/resource/hdjs/app/config.js [运行时间：0.039075s][吞吐率：25.59req/s] [内存消耗：1,626.10kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Entry',
+    2 => 'resource',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost:8888/blog/public/admin/Entry/index',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+  'hdjs' => 'app',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T15:36:06+08:00 ] ::1 ::1 GET /blog/public/admin/Entry/index
+[ log ] localhost:8888/blog/public/admin/Entry/index [运行时间：0.038839s][吞吐率：25.75req/s] [内存消耗：1,755.29kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Entry',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Entry->index[ /Applications/MAMP/htdocs/blog/application/admin/controller/Entry.php ]
+[ info ] [ VIEW ] /Applications/MAMP/htdocs/blog/public/../application/admin/view/entry/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T15:36:06+08:00 ] ::1 ::1 GET /blog/public/admin/Entry/resource/hdjs/app/config.js
+[ log ] localhost:8888/blog/public/admin/Entry/resource/hdjs/app/config.js [运行时间：0.071095s][吞吐率：14.07req/s] [内存消耗：1,626.10kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Entry',
+    2 => 'resource',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost:8888/blog/public/admin/Entry/index',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+  'hdjs' => 'app',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T15:36:06+08:00 ] ::1 ::1 GET /blog/public/admin/Entry/resource/hdjs/require.js
+[ log ] localhost:8888/blog/public/admin/Entry/resource/hdjs/require.js [运行时间：0.084087s][吞吐率：11.89req/s] [内存消耗：1,626.13kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Entry',
+    2 => 'resource',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost:8888/blog/public/admin/Entry/index',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+  'hdjs' => 'require.js',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T15:36:06+08:00 ] ::1 ::1 GET /blog/public/admin/Entry/resource/hdjs/app/util.js
+[ log ] localhost:8888/blog/public/admin/Entry/resource/hdjs/app/util.js [运行时间：0.072353s][吞吐率：13.82req/s] [内存消耗：1,626.10kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Entry',
+    2 => 'resource',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost:8888/blog/public/admin/Entry/index',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+  'hdjs' => 'app',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T15:36:06+08:00 ] ::1 ::1 GET /blog/public/admin/Entry/resource/hdjs/require.js
+[ log ] localhost:8888/blog/public/admin/Entry/resource/hdjs/require.js [运行时间：0.038091s][吞吐率：26.25req/s] [内存消耗：1,626.13kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Entry',
+    2 => 'resource',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost:8888/blog/public/admin/Entry/index',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+  'hdjs' => 'require.js',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T15:36:06+08:00 ] ::1 ::1 GET /blog/public/admin/Entry/resource/hdjs/app/config.js
+[ log ] localhost:8888/blog/public/admin/Entry/resource/hdjs/app/config.js [运行时间：0.037622s][吞吐率：26.58req/s] [内存消耗：1,626.10kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Entry',
+    2 => 'resource',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost:8888/blog/public/admin/Entry/index',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+  'hdjs' => 'app',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T15:37:51+08:00 ] ::1 ::1 GET /blog/public/admin/Login/login
+[ log ] localhost:8888/blog/public/admin/Login/login [运行时间：0.035236s][吞吐率：28.38req/s] [内存消耗：1,625.41kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Login',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T15:37:56+08:00 ] ::1 ::1 GET /blog/public/admin/Login/login
+[ log ] localhost:8888/blog/public/admin/Login/login [运行时间：0.035350s][吞吐率：28.29req/s] [内存消耗：1,625.80kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Login',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T15:38:07+08:00 ] ::1 ::1 GET /blog/public/admin/Login
+[ log ] localhost:8888/blog/public/admin/Login [运行时间：0.037243s][吞吐率：26.85req/s] [内存消耗：1,625.02kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Login',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ /Applications/MAMP/htdocs/blog/application/admin/controller/Login.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:/Applications/MAMP/htdocs/blog/public/../application/admin/view/login/index.html[/Applications/MAMP/htdocs/blog/thinkphp/library/think/view/driver/Think.php:80]
+
+---------------------------------------------------------------
+[ 2017-04-28T15:39:41+08:00 ] ::1 ::1 GET /blog/public/admin/Login
+[ log ] localhost:8888/blog/public/admin/Login [运行时间：0.030287s][吞吐率：33.02req/s] [内存消耗：1,625.41kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Login',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ /Applications/MAMP/htdocs/blog/application/admin/controller/Login.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:/Applications/MAMP/htdocs/blog/public/../application/admin/view/login/index.html[/Applications/MAMP/htdocs/blog/thinkphp/library/think/view/driver/Think.php:80]
+
+---------------------------------------------------------------
+[ 2017-04-28T15:39:46+08:00 ] ::1 ::1 GET /blog/public/admin/Login
+[ log ] localhost:8888/blog/public/admin/Login [运行时间：0.034001s][吞吐率：29.41req/s] [内存消耗：1,625.41kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Login',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ /Applications/MAMP/htdocs/blog/application/admin/controller/Login.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:/Applications/MAMP/htdocs/blog/public/../application/admin/view/login/index.html[/Applications/MAMP/htdocs/blog/thinkphp/library/think/view/driver/Think.php:80]
+
+---------------------------------------------------------------
+[ 2017-04-28T15:39:48+08:00 ] ::1 ::1 GET /blog/public/admin/Login
+[ log ] localhost:8888/blog/public/admin/Login [运行时间：0.031008s][吞吐率：32.25req/s] [内存消耗：1,625.41kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Login',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ /Applications/MAMP/htdocs/blog/application/admin/controller/Login.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:/Applications/MAMP/htdocs/blog/public/../application/admin/view/login/index.html[/Applications/MAMP/htdocs/blog/thinkphp/library/think/view/driver/Think.php:80]
+
+---------------------------------------------------------------
+[ 2017-04-28T15:40:10+08:00 ] ::1 ::1 GET /blog/public/admin/Login
+[ log ] localhost:8888/blog/public/admin/Login [运行时间：0.028485s][吞吐率：35.11req/s] [内存消耗：1,625.41kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Login',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ /Applications/MAMP/htdocs/blog/application/admin/controller/Login.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:/Applications/MAMP/htdocs/blog/public/../application/admin/view/login/index.html[/Applications/MAMP/htdocs/blog/thinkphp/library/think/view/driver/Think.php:80]
+
+---------------------------------------------------------------
+[ 2017-04-28T15:40:25+08:00 ] ::1 ::1 GET /blog/public/admin/Login
+[ log ] localhost:8888/blog/public/admin/Login [运行时间：0.028919s][吞吐率：34.58req/s] [内存消耗：1,728.23kb] [文件加载：47]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Login',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ /Applications/MAMP/htdocs/blog/application/admin/controller/Login.php ]
+[ info ] [ VIEW ] /Applications/MAMP/htdocs/blog/public/../application/admin/view/login/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T15:40:25+08:00 ] ::1 ::1 GET /blog/public/static/admin/admin.ui/js/slimscroll/jquery.slimscroll.min.js
+[ log ] localhost:8888/blog/public/static/admin/admin.ui/js/slimscroll/jquery.slimscroll.min.js [运行时间：0.036874s][吞吐率：27.12req/s] [内存消耗：1,327.50kb] [文件加载：40]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/blog/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'admin.ui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost:8888/blog/public/admin/Login',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'PHPSESSID=03a6cf9d9de27edbbc167ed96a159db6; SQLiteManager_currentLangue=2',
+)
+[ info ] [ PARAM ] array (
+  'js' => 'slimscroll',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
